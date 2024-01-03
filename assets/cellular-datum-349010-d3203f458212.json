@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cellular-datum-349010",
+  "private_key_id": "d3203f458212185e90a1b8430baa0b52e043dc40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjYcTmutBPgLcv\noGu+RWFg/5tldIu83mXlgWsvgjMTlTgIendzmPdIGAa7SagTMml4w15ZQcQZCl12\n/QkaXBqiPQglL54htaxrFN4spiZiTKNySpq1L2GVsu+WoZqFlVaTDJSvaSERjSgD\nDQFblnpxwQdVvQQisk6OfTya9A9qIfqrOtLZcNBZA9pIFrL7Wkg/Svv7wMiTa0dl\n7odL/RnP55iSp3iE+n+GV+nTVkL/yuQLKiSjjdd7JKpjz/9dqNKkqOTxsZE5FRs5\n1gmklGGzT0LQRFMoHilWlBHAivLyMen05HzpTIM1xMjQ2uFqUXO213d3EM7xEkYy\nf4g2JfFLAgMBAAECggEAGdg6bIE6uIjU8Xy/7m5NNCna7BaekDbiCYcKbI59A+kD\n3xt4T9nvrADY98F0C+1aj9bf0uC7Y3anSE5IpVnSgL2Ez1UT/6Mcbifz6T4zLjOP\nW2H/zQ98sVCH490Wc3EnK8W+s2y+5Wbd4HWrNFC+d8YgIejvgYmRMasP7jcTRSdw\nJZo3WBY1LKaHR6dClHNtDDnvowiIzA5rpb7QiN1tRkPjhE+4pcrQqJWeaSzLftjb\nhVWZajZuSVygkFcnSt1hAbwdSNfl8/pcdp3vm8YrEfyzql4UHHaCbcBP8z43bQLw\njNkLcM/Xr8rDMIazTfBGTyD8X/PtnsdaDYN0sB1HCQKBgQDRo4LpKFFv5lsv8qX2\n+PVCEuFVn09avC791Bv2nufzuJ5Pja/1cR1rm3oytQsSO628L96MosOfrpf01LLX\nDlz8xx9gZOHZna8IWeOXsMWlHU9gyVrLZEYEIgUI/XQBWTDGCD8QtUDS4oR2a8xf\nO0oNPz2a44rdKylBRL1JvxuOZQKBgQDHg3l2tdmimx1R/+/zZ5CSUa0K3YmoZlSR\nko1K0085m0uDV1CIsfEE6yF/7tPHmrGa+V6KQNlqv1DgzG94g7qqAak/riS31RNW\nu9W+1MXmcB/+TLP7hBHbdp7xwiv9sSVaKDetM2WJd136v+IKDr1pZVID3ZJ/1+mk\nCKmR6m9t7wKBgF7hDxWxTrJDYo/f1Sdi47WE0AEtef/J3ca5ofJLVxViQBwnNzTx\nfew+0N50O8+DvQzH6YRjAgCaR2HihhJ5CLLK+DNrVSBlkltIO45izgD9s/hNCU+2\nUU37i6XW+BLIKB/oiYppTi5joKnr/fI35jr6nUolo6qXpzNIBheDa9hVAoGANJfX\n4Q82+8JgDEmne0aFucyGDSMxMo8nI+i6Dkt9yvXBBjJyLFab7mv9PLg8Y5XH086A\nuXk21wjvzRKXH/G5ty8Q6pSBYWRt4KNLSS7VrFVKWcLmfxrlijDO3XQOHKYh7o5D\nfwjZb09kGsGSWIxiKfJnmFVEVScZlAAkky51iUkCgYAnlU+WJwfQWW+1DOcXlp72\nL4236ElEff36yxPYLJzdeCrkBFyQpXqAS5a9Y1hPdUuA2YETCOsPVV40QBSJyyxj\nHTzfPwrDPKETE4J5W4lQIXekIhEXr0pNSkg44amUbqCaW2LlbJzq4ucTXzs6e24+\naB8WdQ5pMvGRSXlsSgQ9HQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aitrainerchatbot@cellular-datum-349010.iam.gserviceaccount.com",
+  "client_id": "104750298774752432786",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aitrainerchatbot%40cellular-datum-349010.iam.gserviceaccount.com"
+}

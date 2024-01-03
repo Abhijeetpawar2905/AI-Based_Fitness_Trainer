@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278756648665",
+    "project_id": "fitnesswithai",
+    "storage_bucket": "fitnesswithai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278756648665:android:058a0f8d755992685f40c8",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278756648665-9fu2gk73t8fq6umnoe1vomola85tk6ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7OFD7zvA8m6H1Gd5PNMpIicZVZ4gzu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278756648665-9fu2gk73t8fq6umnoe1vomola85tk6ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
